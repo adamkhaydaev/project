@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: project
+Version: 0.1.0
+Requires-Dist: fastapi==0.104.1
+Requires-Dist: uvicorn[standard]==0.24.0
+Requires-Dist: sqlalchemy==2.0.23
+Requires-Dist: python-dotenv==1.0.0
+Requires-Dist: aiosqlite>=0.21.0
