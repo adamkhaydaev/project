@@ -90,7 +90,7 @@ curl -X GET "http://127.0.0.1:8000/abc123"
 Убедитесь, что запускаете из правильной папки:
 
 # Правильно - из корневой папки
-cd C:\Users\ВашеИмя\Desktop\my_project
+cd C:\Users\ВашеИмя\Desktop\project
 uvicorn app.simple_app:app --reload
 # Или из папки app
 cd app
